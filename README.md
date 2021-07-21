@@ -9,7 +9,7 @@ With Magento 2 Order Comments, you can greatly improve the checkout process and 
 ## Key Features
 
 * Allows buyers to leave comments on their orders during the checkout process;
-* Ability to display order comment box by default expanded, collapsed, or with no expand/collapse
+* Ability to display order comment box: expanded, collapsed, or with no expand/collapse
 * Ability to set the maximum characters allowed for the order comment;
 * Ability to display order comment on customer account in the storefront;
 * View order comment on admin grid and order details;
